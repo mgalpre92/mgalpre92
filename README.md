@@ -37,8 +37,8 @@ Aplicación web enfocada en mostrar rutas con diseño atractivo y navegación in
 🔹 Tienda online de ropa
 Simulación de ecommerce con estructura realista
 
-🔹 Biblioteca virtual (PHP + MySQL)
-Sistema de gestión de entradas con base de datos
+🔹 Seleccionador Empresas Ficticias
+Pagina vista de seleccionador de Empresas ficticias mediante JS y HTML5
 
 ---
 
